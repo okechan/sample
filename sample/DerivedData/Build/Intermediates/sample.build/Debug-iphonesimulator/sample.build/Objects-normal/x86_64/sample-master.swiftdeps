@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "917e95b8f6e197bf3d2bb3574e97aec4"
+build_time: [1529394155, 303054000]
+inputs:
+  "/Users/okechan/Desktop/test/sample/sample/ViewController.swift": [1529394143, 0]
+  "/Users/okechan/Desktop/test/sample/sample/AppDelegate.swift": [1529394143, 0]
